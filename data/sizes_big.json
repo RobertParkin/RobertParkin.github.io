@@ -1,0 +1,14 @@
+[
+    {
+        "label": "L",
+        "value": "t2.large"
+    },
+    {
+        "label": "XL",
+        "value": "t2.xlarge"
+    },
+    {
+        "label": "2XL",
+        "value": "t2.2xlarge"
+    }
+]

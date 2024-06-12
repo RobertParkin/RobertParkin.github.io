@@ -1,0 +1,14 @@
+[
+    {
+        "label": "XS",
+        "value": "t2.micro"
+    },
+    {
+        "label": "S",
+        "value": "t2.small"
+    },
+    {
+        "label": "M",
+        "value": "t2.medium"
+    }
+]
