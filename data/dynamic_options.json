@@ -1,0 +1,18 @@
+{
+    "options":[
+        {
+            "condition":"$test == 'foo'",
+            "values":[
+                "foo",
+                "foo2"
+            ]
+        },
+        {
+            "condition":"$test == 'bar'",
+            "values":[
+                "bar",
+                "bar2"
+            ]
+        }
+    ]
+}
